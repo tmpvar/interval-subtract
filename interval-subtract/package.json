@@ -1,0 +1,29 @@
+{
+  "name": "interval-subtract",
+  "version": "0.0.0",
+  "description": "subtract an interval from another",
+  "main": "interval-subtract.js",
+  "dependencies": {
+    "tape": "^3.5.0"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-subtract"
+  },
+  "keywords": [
+    "interval",
+    "subtract"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-subtract/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-subtract"
+}
