@@ -2,7 +2,7 @@
 
 subtract an interval from another where an interval is a 2 part array
 
-extracted from [Implicit Solid Modeling Using Interval Methods](http://jenchienjackchang.com/sample-page/implicit-solid-modeling-using-interval-methods/)
+extracted from [Implicit Solid Modeling Using Interval Methods](https://github.com/tmpvar/interval-min/files/76491/Implicit.Solid.Modeling.Using.Interval.Methods.pdf)
 
 ## install
 
